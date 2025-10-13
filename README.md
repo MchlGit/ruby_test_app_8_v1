@@ -1,24 +1,30 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a test Ruby project as I am learning Rails. 
 
-Things you may want to cover:
+* Ruby 3.4.6 
+* Rails 8.0.3
 
-* Ruby version
 
-* System dependencies
+[//]: # (* System dependencies)
 
-* Configuration
+[//]: # ()
+[//]: # (* Configuration)
 
-* Database creation
+[//]: # ()
+[//]: # (* Database creation)
 
-* Database initialization
+[//]: # ()
+[//]: # (* Database initialization)
 
-* How to run the test suite
+[//]: # ()
+[//]: # (* How to run the test suite)
 
-* Services (job queues, cache servers, search engines, etc.)
+[//]: # ()
+[//]: # (* Services &#40;job queues, cache servers, search engines, etc.&#41;)
 
-* Deployment instructions
+[//]: # ()
+[//]: # (* Deployment instructions)
 
-* ...
+[//]: # ()
+[//]: # (* ...)
